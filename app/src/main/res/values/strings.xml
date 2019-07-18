@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="api_link">https://www.foodrepo.org/api/v3/products/</string>
+    <string name="api_key">	7ad4e6a215f130d793462fdfc1b58933</string>
+</resources>
